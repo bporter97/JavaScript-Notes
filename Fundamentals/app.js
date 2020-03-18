@@ -1,4 +1,4 @@
-//Displays "Hello World" In an Alert Box when you open the browser pagec
+//Displays "Hello World" In an Alert Box when you open the browser page
 alert("Hello World")
 // Logs to console from application
 console.log("Hello World");
