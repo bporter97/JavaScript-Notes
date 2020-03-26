@@ -1,0 +1,8 @@
+I know what you're thinking, "this idiot named his files starting with a number!".
+Yes I know this; this is mainly for the new people wondering where they should start at.
+That being said, NEW PEOPLE; any files, variables, classes, modules,
+methods, object or pretty much anything in any programming language, should not start with a number.
+Nobody is stopping you from doing this, however it's just bad manners to do so, and everyone who has ever
+programmed will rip you a new one. Also your code may be all screwy and not work.
+
+Don't say I didn't warn you.
